@@ -302,7 +302,7 @@
     <!-- HTML - FOOTER                                                 -->
     <!-- ============================================================ -->
   <footer class="footer">
-      <p>© 2025 <span class="accent-red">Jarold</span> Garcia Cartagena — Vivo y muero por ti Claude 💙</p>
+      <p>© 2025 <span class="accent-red">Jarold</span> Garcia Cartagena — Vivo y muero por ti Claude </p>
       <a href="https://portafolio-gabriel-garcia.vercel.app/" target="_blank" class="btn-laboral">
         Portafolio Laboral
       </a>
