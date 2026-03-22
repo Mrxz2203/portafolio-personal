@@ -323,7 +323,7 @@
 
     <a href="https://carta-amanecer.vercel.app/" target="_blank" class="proyecto-card">
       <div class="proyecto-img-wrapper">
-        <img src="@/assets/Amanecer.png" alt="Carta Amanecer" class="proyecto-img" />
+        <img src="@/assets/Amanecer.png" alt="Más alla del Amanecer" class="proyecto-img" />
         <div class="proyecto-overlay">
           <span class="proyecto-ver">Ver proyecto ↗</span>
         </div>
