@@ -288,8 +288,8 @@
       <div class="serie-info">
         <h3>Kaoru Hana wa Rin to Saku</h3>
         <p>Esta serie es muy importante en mi vida de lo que debería ser. 
-        Amo a los protagonistas, Kaoru es un personaje tan hermoso como utópico, Rintaro es un chico increible en su determinacion tan increible, como la historia, pero siempre que veo o sepa algo de esta hermosa serie,
-         siempre recuerdo a aquella persona especial, una muy importante eternamente, que le deseo lo mejor donde sea que ella esté.</p>
+        Amo a los protagonistas, Kaoru es un personaje tan hermosa como utópica y Rintaro es un chico increible en su determinacion tan increible pero siempre que veo o sepa algo de esta hermosa serie,
+         recuerdo a aquella persona especial, una muy importante, que le deseo lo mejor donde sea que ella esté.</p>
       </div>
     </div>
   </div>
