@@ -273,11 +273,11 @@
     </div>
     <div class="serie-card">
       <div class="serie-img-wrapper">
-        <img src="@/assets/Ken.png" alt="Tokyo Ghoul" class="serie-img" />
+        <img src="@/assets/TokyoGhoul.jpg" alt="Tokyo Ghoul" class="serie-img" />
       </div>
       <div class="serie-info">
         <h3>Tokyo Ghoul</h3>
-        <p>La primera serie en la que me anime a leer desde el principio hasta el final, para mi el mejor seinen que he podido leer, gracias Ishida por todo. Realmente estoy tan solo, Kaneki Ken.</p>
+        <p>La primera serie como manga en la que me anime a leer desde el principio hasta el final, para mi el mejor seinen que he podido leer y disfrutar, gracias Ishida por todo. Yo también realmente estoy tan solo, Kaneki Ken.</p>
       </div>
     </div>
 
@@ -288,7 +288,7 @@
       <div class="serie-info">
         <h3>Kaoru Hana wa Rin to Saku</h3>
         <p>Esta serie es muy importante en mi vida de lo que debería ser. 
-        Amo a los protagonistas, Kaoru es un personaje tan hermosa como utópica y Rintaro es un chico increible en su determinacion tan increible pero siempre que veo o sepa algo de esta hermosa serie,
+        Amo a los protagonistas, Kaoru es un personaje tan hermosa como utópica y Rintaro es un chico increible en su determinacion tan increible, pero siempre que veo o sepa algo de esta hermosa serie,
          recuerdo a aquella persona especial, una muy importante, que le deseo lo mejor donde sea que ella esté.</p>
       </div>
     </div>
@@ -930,7 +930,7 @@ export default {
   display: flex;
   flex-direction: row;
   align-items: stretch;
-  height: 160px;
+   min-height: 160px;
   transition: transform 0.3s, border-color 0.3s;
 }
 
@@ -943,14 +943,14 @@ export default {
   width: 180px;
   min-width: 180px;
   max-width: 180px;
-  height: 160px;
+  min-height: 160px;
   overflow: hidden;
   flex-shrink: 0;
 }
 
 .serie-img {
   width: 180px;
-  height: 160px;
+  height: 100%;
   object-fit: cover;
   display: block;
 }
