@@ -32,7 +32,7 @@
             <span class="accent-red">Garcia</span> Cartagena
           </h1>
           <p class="subtitulo">Estudiante de Ingeniería de Sistemas</p>
-          <a href="#acerca" class="btn-portafolio">Portafolio Personal</a>
+          <a href="#acerca" class="btn-portafolio"> Web Personal</a>
         </div>
 
         <div class="hero-image-wrapper">
@@ -68,7 +68,7 @@
         <div class="acerca-card highlight">
           <div class="card-icon">⚽</div>
           <h3>Deportivo</h3>
-          <p>Amante del fútbol, hinchando por clubes como el <span class="accent-red">Fútbol Club Arsenal</span> y <span class="accent-blue">Sporting Cristal</span> de Perú.</p>
+          <p>Amante del fútbol, hinchando por clubes como el <span class="accent-red">Fútbol Club Arsenal</span> de Inglaterra y <span class="accent-blue">Sporting Cristal</span> de Perú.</p>
         </div>
         <div class="acerca-card">
           <div class="card-icon">✍️</div>
@@ -166,7 +166,7 @@
         <li>Black Clover.</li>
         <li>Dragon Ball Z.</li>
         <li>Shingeki no Kyojin.</li>
-        <li>Kaoru Hana wa Rint to Saku.</li>
+        <li>Kaoru Hana wa Rin to Saku.</li>
         <li>Tokyo Ghoul.</li>
         <li>Sangatsu no Lion.</li>
       </ul>
@@ -248,7 +248,7 @@
       </div>
       <div class="serie-info">
         <h3>The Walking Dead</h3>
-        <p>Pedazo de historia, lo disfrute como ninguna otra serie, cada arco, cada personaje y el final pues dejo a deber pero siempre fue un goce seguirlo durante años el manga.</p>
+        <p> Recuerdo haberlo visto teniendo 10 años pero me traumo, luego fue increible la aventura de Rick, las 6 primeras temporadas, fanatico de la serie</p>
       </div>
     </div>
 
@@ -283,13 +283,13 @@
 
     <div class="serie-card">
       <div class="serie-img-wrapper">
-        <img src="@/assets/Hana.jpg" alt="Kaoru Hana wa Rin to Saku" class="serie-img" />
+        <img src="@/assets/KaoruHana.jpg" alt="Kaoru Hana wa Rin to Saku" class="serie-img" />
       </div>
       <div class="serie-info">
         <h3>Kaoru Hana wa Rin to Saku</h3>
-        <p>Esta serie representa más emocional en mi vida de lo que debería. 
-        Amo a los protagonistas, como la historia, pero siempre que veo o sepa algo de esta hermosa serie,
-         siempre recuerdo a aquella persona especial, que le deseo lo mejor donde sea que ella esté.</p>
+        <p>Esta serie es muy importante en mi vida de lo que debería ser. 
+        Amo a los protagonistas, Kaoru es un personaje tan hermoso como utópico, Rintaro es un chico increible en su determinacion tan increible, como la historia, pero siempre que veo o sepa algo de esta hermosa serie,
+         siempre recuerdo a aquella persona especial, una muy importante eternamente, que le deseo lo mejor donde sea que ella esté.</p>
       </div>
     </div>
   </div>
