@@ -69,7 +69,7 @@
         <div class="acerca-card highlight">
           <div class="card-icon">⚽</div>
           <h3>Deportivo</h3>
-          <p>Amante del fútbol, hinchando por clubes como el <span class="accent-red">Fútbol Club Arsenal</span> de Inglaterra y <span class="accent-blue">Sporting Cristal</span> de Perú.</p>
+<p>Amante del fútbol, hinchando por clubes como el <span class="accent-red">Fútbol Club Arsenal</span> de Inglaterra, <span class="accent-blue">Sporting Cristal</span> de Perú y el club que me inspiró a amar este deporte, el <span class="accent-barca">FC Barcelona</span> , no lo sigo mucho hoy en dia, pero de alguna manera estoy ahí.</p>
         </div>
         <div class="acerca-card">
           <div class="card-icon">✍️</div>
@@ -373,6 +373,11 @@
       </p>
     </div>
   </div>
+
+
+  <blockquote class="frase">
+  "Vive al máximo cada momento, quizás no exista un mañana."
+</blockquote>
 </section>
     <!-- ============================================================ -->
     <!-- HTML - FOOTER                                                 -->
@@ -1175,6 +1180,7 @@ export default {
   border-radius: 12px;
   border: 2px solid rgba(74,144,217,0.25);
   object-fit: cover;
+  margin-bottom: 0.9rem;
 }
 
 .bolly-caption {
@@ -1186,6 +1192,7 @@ export default {
   border-radius: 50px;
   letter-spacing: 0.5px;
   text-align: center;
+  margin-bottom: 1.5rem;
 }
 
 .bolly-text {
@@ -1195,13 +1202,14 @@ export default {
   background: rgba(255,255,255,0.03);
   display: flex;
   flex-direction: column;
-  gap: 1rem;
+  gap: 1.2rem;
 }
 
 .bolly-text p {
   color: #A0AEC0;
   font-size: 0.95rem;
   line-height: 1.8;
+  
 }
 
 @media (max-width: 768px) {
@@ -1210,4 +1218,6 @@ export default {
   .bolly-img { width: 100%; max-width: 320px; }
   .bolly-text { padding: 1.2rem; }
 }
+
+.accent-barca { color: #A50044; }
 </style>
