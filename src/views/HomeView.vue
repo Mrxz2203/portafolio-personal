@@ -317,7 +317,7 @@
         </div>
       </div>
       <div class="proyecto-info">
-        <h3>Kiseki</h3>
+        <h3>Milagro</h3>
       </div>
     
     </a>
@@ -337,7 +337,7 @@
   </div>
   <div class="proyecto-nota">
   <span class="nota-icono">👁️</span>
-  <p><span class="nota-label">Dato:</span> Estas cartas son inspiradas en base a mis sentimientos y experiencias vividas de un mañana vivido.</p>
+  <p><span class="nota-label">Dato:</span> Estas cartas son inspiradas en base a sentimientos y experiencias vividas de un mañana vivido.</p>
 </div>
 </section>
 <!-- ============================================================ -->
@@ -369,8 +369,7 @@
       </p>
       <p>
         Eso sí, mi película como  canción favorita será
-        <span class="accent-blue">Kal ho Naa Ho</span>, por ser muy vital en mi vida.
-      </p>
+        <span class="accent-blue">Kal Ho Naa Ho</span>, por ser muy importante en mi vida.
     </div>
   </div>
 
