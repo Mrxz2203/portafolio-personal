@@ -337,7 +337,7 @@
   </div>
   <div class="proyecto-nota">
   <span class="nota-icono">👁️</span>
-  <p><span class="nota-label">Dato:</span> Estas cartas son inspiradas en base a sentimientos y mis experiencias vividas.</p>
+  <p><span class="nota-label">Dato:</span> Estas cartas son inspiradas en base a mis sentimientos y experiencias vividas.</p>
 </div>
 </section>
 <!-- ============================================================ -->
