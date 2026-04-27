@@ -290,7 +290,7 @@
         <h3>Kaoru Hana wa Rin to Saku</h3>
         <p>Esta serie es muy importante en mi vida de lo que debería ser. 
         Amo a los protagonistas, Kaoru es un personaje tan hermosa como utópica y Rintaro es un chico increible en su determinacion tan increible, pero siempre que veo o sepa algo de esta hermosa serie,
-         recuerdo a aquella persona especial, una muy importante, que le deseo lo mejor donde sea que ella esté.</p>
+         recuerdo a una persona muy importante, que le deseo lo mejor donde sea que ella esté.</p>
       </div>
     </div>
   </div>
@@ -337,7 +337,7 @@
   </div>
   <div class="proyecto-nota">
   <span class="nota-icono">👁️</span>
-  <p><span class="nota-label">Dato:</span> Estas cartas son inspiradas en base a sentimientos y experiencias vividas de un mañana vivido.</p>
+  <p><span class="nota-label">Dato:</span> Estas cartas son inspiradas en base a sentimientos y mis experiencias vividas.</p>
 </div>
 </section>
 <!-- ============================================================ -->
@@ -370,6 +370,7 @@
       <p>
         Eso sí, mi película como  canción favorita será
         <span class="accent-blue">Kal Ho Naa Ho</span>, por ser muy importante en mi vida.
+      </p>
     </div>
   </div>
 
@@ -382,7 +383,7 @@
     <!-- HTML - FOOTER                                                 -->
     <!-- ============================================================ -->
   <footer class="footer">
-      <p>© 2025 <span class="accent-red">Jarold</span> Garcia Cartagena — Vivo y muero por ti Claude </p>
+      <p>© 2026 <span class="accent-red">Jarold Gabriel</span> Garcia Cartagena — Viviendo un mañana incierto. </p>
       <a href="https://portafolio-gabriel-garcia.vercel.app/" target="_blank" class="btn-laboral">
         Portafolio Laboral
       </a>
