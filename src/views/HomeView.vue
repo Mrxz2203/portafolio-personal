@@ -170,6 +170,8 @@
         <li>Kaoru Hana wa Rin to Saku.</li>
         <li>Tokyo Ghoul.</li>
         <li>Sangatsu no Lion.</li>
+        <li>Koe no Katachi.</li>
+        <li>Kuso Onna ni Sachiare.</li>
       </ul>
     </div>
 
@@ -293,6 +295,35 @@
          recuerdo a una persona muy importante, que le deseo lo mejor donde sea que ella esté.</p>
       </div>
     </div>
+    <div class="serie-card">
+  <div class="serie-img-wrapper" style="position: relative;">
+    <img src="@/assets/Katachi.jpg" alt="Koe no Katachi" class="serie-img" style="filter: brightness(0.7); "/>
+  </div>
+  <div class="serie-info">
+    <h3>Koe no Katachi</h3>
+    <p>¿Qué decir jaja? Sin duda Shouya me representó en mi punto más bajo de mi estabilidad emocional
+    el como encomendo sus errores, aprendio de ellos para vivir con esa culpa y moldearla a un presente mejor.
+    Lo que más admire de esta serie es que nuestros actos siempre tendrán consecuencias y en algun momento 
+    habrá que afrontarlas. Nishimiya también es un amor, me encanto su visión de vivir adelante, mi shipp preferido te diría,
+    le tengo un cariño a esta historia y su mensaje.</p>
+  </div>
+</div>
+
+<div class="serie-card">
+  <div class="serie-img-wrapper" style="position: relative;">
+    <img src="@/assets/Hope.png" alt="Kuso Onna ni Sachiare" class="serie-img" style="filter: brightness(0.7);" />
+  </div>
+  <div class="serie-info">
+    <h3>Kuso Onna ni Sachiare</h3>
+    <p>Después de años encontre una historia muy entretenida, y ya era hora!
+    Me encanta Sunao como protagonista, la amabilidad inherente que posee y su mentalidad al 
+    momento de afrontar y tomar las decisiones como consecuencias. 
+    Lemon ay hija mía te quiero, pero no debiste terminarlo así, pero entiendo tus motivos, eres digna de admirar,
+    aun así espero ambos puedan afrontar el hecho de que una relación puede terminar e iniciar sin esperarlo, 
+    son jóvenes y sus comunicaciones como el   contexto de la historia se adhirio a mi en un momento vulnerable , 
+    espero verlos juntos siendo ellos mismos.</p>
+  </div>
+</div>
   </div>
 
   <a href="#series" class="scroll-down scroll-down-section">
