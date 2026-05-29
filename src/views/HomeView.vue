@@ -32,14 +32,14 @@
           <h1 class="nombre">
             <span class="accent-red">Garcia</span> Cartagena
           </h1>
-          <p class="subtitulo">Estudiante de Ingeniería de Sistemas</p>
-          <a href="#acerca" class="btn-portafolio"> Web Personal</a>
+          <p class="subtitulo">Estudiante de Ingeniería de Sistemas de Información.</p>
+          <a href="#acerca" class="btn-portafolio"> Sitio Web Personal</a>
         </div>
 
         <div class="hero-image-wrapper">
           <div class="image-ring"></div>
           <div class="image-ring ring-2"></div>
-          <img src="@/assets/Rei.jpg" alt="Jarold Garcia" class="hero-img" />
+          <img src="@/assets/pfp.jpg" alt="Jarold Garcia" class="hero-img" />
           <div class="image-shadow"></div>
           <span class="deco-tag tag-1">JS</span>
           <span class="deco-tag tag-2">Vue</span>
@@ -69,7 +69,7 @@
         <div class="acerca-card highlight">
           <div class="card-icon">⚽</div>
           <h3>Deportivo</h3>
-<p>Amante del fútbol, hinchando por clubes como el <span class="accent-red">Fútbol Club Arsenal</span> de Inglaterra, <span class="accent-blue">Sporting Cristal</span> de Perú y el club que me inspiró a amar este deporte, el <span class="accent-barca">FC Barcelona</span> , no lo sigo mucho hoy en dia, pero de alguna manera estoy ahí.</p>
+<p>Amante del fútbol, hinchando por clubes como el <span class="accent-red">Fútbol Club Arsenal</span> de Inglaterra, <span class="accent-blue">Sporting Cristal</span> de Perú. <span class="accent-barca">FC Barcelona</span> , ya no sigo al club como antes, estoy desde lo más lejos pero siempre estoy ahí. </p>
         </div>
         <div class="acerca-card">
           <div class="card-icon">✍️</div>
@@ -99,7 +99,7 @@
       <div class="hobbies-grid">
         <div class="hobby-card">
           <div class="hobby-img-wrapper">
-            <img src="@/assets/Pasatiempo2.png" alt="Programacion" class="hobby-img" />
+            <img src="@/assets/progra.png" alt="Programacion" class="hobby-img" />
           </div>
           <div class="hobby-info">
             <h3>Programación</h3>
