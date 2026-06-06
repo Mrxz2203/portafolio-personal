@@ -69,7 +69,7 @@
         <div class="acerca-card highlight">
           <div class="card-icon">⚽</div>
           <h3>Deportivo</h3>
-<p>Amante del fútbol, hinchando por clubes como el <span class="accent-red">Fútbol Club Arsenal</span> de Inglaterra, <span class="accent-blue">Sporting Cristal</span> de Perú. <span class="accent-barca">FC Barcelona</span> , ya no sigo al club como antes, estoy desde lo más lejos pero siempre estoy ahí. </p>
+<p>Amante del fútbol, hinchando por clubes como el <span class="accent-red">Fútbol Club Arsenal</span> de Inglaterra y <span class="accent-blue">Sporting Cristal</span> de Perú.</p>
         </div>
         <div class="acerca-card">
           <div class="card-icon">✍️</div>
@@ -318,10 +318,10 @@
     <p>Después de años encontre una historia muy entretenida, y ya era hora!
     Me encanta Sunao como protagonista, la amabilidad inherente que posee y su mentalidad al 
     momento de afrontar y tomar las decisiones como consecuencias. 
-    Lemon ay hija mía te quiero, pero no debiste terminarlo así, pero entiendo tus motivos, eres digna de admirar,
-    aun así espero ambos puedan afrontar el hecho de que una relación puede terminar e iniciar sin esperarlo, 
+    Lemon hija mía te quiero, entiendo tus motivos, eres digna de admirar por la manera como seguiste adelante, pero hay formas de decidir,
+    aun así espero ambos puedan afrontar el hecho de que una relación puede terminar por nuestra culpa y asumir nuestras consecuencias, 
     son jóvenes y sus comunicaciones como el   contexto de la historia se adhirio a mi en un momento vulnerable , 
-    espero verlos juntos siendo ellos mismos.</p>
+    espero verlos juntos siendo ellos mismos, estando juntos o separados, la vida es así.</p>
   </div>
 </div>
   </div>
