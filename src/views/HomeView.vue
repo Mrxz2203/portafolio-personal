@@ -5,7 +5,7 @@
     <!-- HTML - NAVBAR                                                 -->
     <!-- ============================================================ -->
     <nav class="navbar">
-      <div class="nav-logo">Web Page Personal</div>
+      <div class="nav-logo">Sitio Web Personal</div>
       <ul class="nav-links">
         <li><a href="#inicio">Inicio</a></li>
         <li><a href="#acerca">Acerca de mí</a></li>
@@ -74,12 +74,12 @@
         <div class="acerca-card">
           <div class="card-icon">✍️</div>
           <h3>Creativo</h3>
-          <p>Me encanta crear historias en textos o crear otro arquetipo a los poemas. Aspirante a futuro estudiante de Psicología.</p>
+          <p>Me encanta crear historias, poemas como canciones adaptables. Aspirante a futuro estudiante de Psicología (sueño frustrado) .</p>
         </div>
       </div>
 
       <blockquote class="frase">
-        “Mi meta principal es luchar por mis sueños y no morir en el ‘hubiera’, 
+        “Mi lema es luchar por mis sueños y no morir en el ‘hubiera’, 
         sino en el éxito o en el fracaso de haberlo intentado.”
       </blockquote>
 
@@ -157,7 +157,7 @@
       <p class="series-intro">
         Ver los animes como series en su momento fue lo que más me rescató de
         algunos problemas personales, así que siempre que puedo veo su
-        continuación o de vez en cuando repito las series mil y una ves.
+        continuación o repito su historia para disfrutarlo como un niño esperando sonreír.
       </p>
       <p class="series-sub">Mis favoritos son:</p>
       <ul class="series-lista">
@@ -321,7 +321,7 @@
     Lemon hija mía te quiero, entiendo tus motivos, eres digna de admirar por la manera como seguiste adelante, pero hay formas de decidir,
     aun así espero ambos puedan afrontar el hecho de que una relación puede terminar por nuestra culpa y asumir nuestras consecuencias, 
     son jóvenes y sus comunicaciones como el   contexto de la historia se adhirio a mi en un momento vulnerable , 
-    espero verlos juntos siendo ellos mismos, estando juntos o separados, la vida es así.</p>
+    espero verlos felices siendo ellos mismos, estando juntos o separados, la vida es así.</p>
   </div>
 </div>
   </div>
@@ -368,7 +368,7 @@
   </div>
   <div class="proyecto-nota">
   <span class="nota-icono">👁️</span>
-  <p><span class="nota-label">Dato:</span> Estas cartas son inspiradas en base a mis sentimientos y experiencias vividas.</p>
+  <p><span class="nota-label">Dato:</span> Estas cartas fueron inspiradas en base a mis sentimientos de una experiencia vivida.</p>
 </div>
 </section>
 <!-- ============================================================ -->
