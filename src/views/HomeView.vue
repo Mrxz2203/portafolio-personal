@@ -39,7 +39,7 @@
         <div class="hero-image-wrapper">
           <div class="image-ring"></div>
           <div class="image-ring ring-2"></div>
-          <img src="@/assets/pfp.jpg" alt="Jarold Garcia" class="hero-img" />
+          <img src="@/assets/pfp.jpg" alt="Gabriel Garcia" class="hero-img" />
           <div class="image-shadow"></div>
           <span class="deco-tag tag-1">JS</span>
           <span class="deco-tag tag-2">Vue</span>
@@ -170,6 +170,8 @@
         <li>Kaoru Hana wa Rin to Saku.</li>
         <li>Tokyo Ghoul.</li>
         <li>Sangatsu no Lion.</li>
+        <li>Re:Zero kara Hajimeru Isekai Seikatsu.</li>
+        <li>Harry Potter.</li>
         <li>Koe no Katachi.</li>
         <li>Kuso Onna ni Sachiare.</li>
       </ul>
@@ -284,6 +286,26 @@
       </div>
     </div>
 
+<div class="serie-card">
+      <div class="serie-img-wrapper">
+        <img src="@/assets/Potter.jpg" alt="Tokyo Ghoul" class="serie-img" />
+      </div>
+      <div class="serie-info">
+        <h3>Harry Potter </h3>
+        <p>La serie de películas lo disfruté desde niño. Cada año se estrenaba y era involvidable su mundo, los personajes como el desarrollo de estos en su crecimiento mientras yo también lo hacía. Aprecio cada cuan tiempo, viendo de nuevo la historia de Harry.</p>
+      </div>
+    </div>
+
+<div class="serie-card">
+      <div class="serie-img-wrapper">
+        <img src="@/assets/ReZero.jpg" alt="Tokyo Ghoul" class="serie-img" />
+      </div>
+      <div class="serie-info">
+        <h3>Re: Zero</h3>
+        <p>Loco, te juro y menosprecie mucho a Subaru, más su trama y cómo conllevo su personalidad en un mundo tan distorsionado, te hace admiralo. Hoy siendo adulto disfruto su desarrollo esperando por un futuro sin preocupación para Subaru. PD: Tappei deja de hacer sufrir al muchacho.</p>
+      </div>
+    </div>
+
     <div class="serie-card">
       <div class="serie-img-wrapper">
         <img src="@/assets/KaoruHana.jpg" alt="Kaoru Hana wa Rin to Saku" class="serie-img" />
@@ -297,16 +319,16 @@
     </div>
     <div class="serie-card">
   <div class="serie-img-wrapper" style="position: relative;">
-    <img src="@/assets/Katachi.jpg" alt="Koe no Katachi" class="serie-img" style="filter: brightness(0.7); "/>
+    <img src="@/assets/Katachi.png" alt="Koe no Katachi" class="serie-img" style="filter: brightness(0.7); "/>
   </div>
   <div class="serie-info">
     <h3>Koe no Katachi</h3>
-    <p>¿Qué decir jaja? Sin duda Shouya me representó en mi punto más bajo de mi estabilidad emocional
+    <p>Shouya me representó en mi punto más bajo de mi estabilidad emocional
     el como encomendo sus errores, aprendio de ellos para vivir con esa culpa y moldearla a un presente mejor.
     Lo que más admire de esta serie es que nuestros actos siempre tendrán consecuencias y en algun momento 
-    habrá que afrontarlas. Nishimiya también es un amor, me encanto su visión de vivir adelante, mi shipp preferido te diría,
-    le tengo un cariño a esta historia y su mensaje.</p>
+    habrá que afrontarlas, le tengo un cariño a esta historia y su mensaje.</p>
   </div>
+
 </div>
 
 <div class="serie-card">
