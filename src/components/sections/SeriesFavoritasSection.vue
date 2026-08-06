@@ -137,4 +137,17 @@ export default {
   color: #A0AEC0;
   line-height: 1.6;
 }
+@media (max-width: 768px) {
+  .series-favoritas { padding: 4rem 1.5rem; }
+  .series-grid { grid-template-columns: 1fr; }
+  .serie-card { flex-direction: column; min-height: auto; }
+  .serie-img-wrapper {
+    width: 100%;
+    min-width: 100%;
+    max-width: 100%;
+    height: 180px;
+    min-height: 180px;
+  }
+  .serie-img { width: 100%; }
+}
 </style>
