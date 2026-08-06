@@ -36,3 +36,56 @@ npm run dev
 ```sh
 npm run build
 ```
+
+# Sitio Web Personal — Jarold Gabriel Garcia Cartagena
+
+Sitio web personal construido con **Vue** (Single File Component) donde comparto quién soy, mis pasatiempos, series favoritas, proyectos personales tipo "cartas" y mi lado fan de Bollywood.
+
+## 🚀 Tecnologías
+
+- **Vue** (Single File Component — `<template>`, `<script>`, `<style scoped>`)
+- **CSS puro** con variables de color, animaciones (`@keyframes`) y diseño responsive
+- **Google Fonts**: Bebas Neue + Outfit
+- Navegación por anclas (`#inicio`, `#acerca`, etc.) con scroll suave
+
+## 📑 Secciones
+
+| Sección | Descripción |
+|---|---|
+| **Inicio** | Hero con nombre, foto de perfil y tags decorativos (JS, Vue, CSS) |
+| **Acerca de mí** | Tres facetas: académica, deportiva y creativa |
+| **Pasatiempos** | Programación, fútbol, gaming y música/poesía |
+| **Series** | Listado de mis animes/series favoritas |
+| **Series Favoritas** | Grid detallado con reseña personal de cada una |
+| **Cartas** | Mini proyectos personalizados ("Milagro" y "Carta Amanecer"), inspirados en canciones de Green Day |
+| **Bollywood** | Mi historia con la filmografía de Shahrukh Khan |
+
+## 🎨 Diseño
+
+- Paleta oscura (`#0D0D1A`) con acentos en rojo (`#EF0107`) y azul (`#4A90D9`)
+- Tarjetas con hover effects y bordes con glow
+- Totalmente responsive (breakpoint en `768px`)
+
+## 📂 Assets requeridos
+
+El componente referencia imágenes en `@/assets/`, entre ellas:
+`catpfp.jpg`, `progra.png`, `Pasatiempo1-4.jpg`, `Luffy.png`, y las portadas de cada serie (One Piece, SNK, Black Clover, DBZ, etc.), `Kiseki.png`, `Amanecer.png`, `Bolly.png`.
+
+Asegúrate de tenerlas todas en la carpeta `src/assets/` antes de correr el proyecto.
+
+## ▶️ Cómo correrlo
+
+```bash
+npm install
+npm run dev   # o npm run serve, según tu configuración de Vue CLI/Vite
+```
+
+## 🔗 Enlaces relacionados
+
+- [Portafolio Laboral](https://portafolio-gabriel-garcia.vercel.app/)
+- [Milagro (Kiseki)](https://kiseki-green-gab.vercel.app/)
+- [Carta Amanecer](https://carta-amanecer.vercel.app/)
+
+---
+
+© 2026 Jarold Gabriel Garcia Cartagena

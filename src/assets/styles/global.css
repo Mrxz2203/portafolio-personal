@@ -1,0 +1,127 @@
+/* ================================================================ */
+/* GLOBAL STYLES - Importar UNA VEZ en main.js:                     */
+/* import './assets/styles/global.css'                              */
+/* Contiene clases compartidas por varias secciones/componentes     */
+/* ================================================================ */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Outfit:wght@300;400;600;700&display=swap');
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+.accent-red  { color: #EF0107; }
+.accent-blue { color: #4A90D9; }
+
+/* ---- TÍTULOS DE SECCIÓN (usado en Acerca, Pasatiempos, Series, SeriesFavoritas, Cartas, Bollywood) ---- */
+.section-line {
+  width: 60px; height: 3px;
+  background: linear-gradient(to right, #EF0107, #4A90D9);
+  border-radius: 2px;
+  margin-bottom: 1rem;
+}
+
+.section-line-center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.section-title {
+  font-family: 'Bebas Neue', sans-serif;
+  font-size: 3.5rem;
+  letter-spacing: 3px;
+  margin-bottom: 3rem;
+  color: #FFFFFF;
+}
+
+.section-title-center {
+  text-align: center;
+  width: 100%;
+}
+
+/* ---- CITA / FRASE (usado en Acerca y Bollywood) ---- */
+.frase {
+  border-left: 3px solid #EF0107;
+  padding: 1rem 2rem;
+  font-style: italic;
+  color: #A0AEC0;
+  font-size: 1rem;
+  line-height: 1.8;
+  background: rgba(239,1,7,0.04);
+  border-radius: 0 8px 8px 0;
+  width: 100%;
+}
+
+/* ---- FLECHA SCROLL (usado en Hero, Acerca, Series, SeriesFavoritas) ---- */
+.scroll-down {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.4rem;
+  text-decoration: none;
+  position: absolute;
+  bottom: 2rem;
+  animation: bounce 2s infinite;
+}
+
+.scroll-down-section {
+  position: relative;
+  bottom: auto;
+  margin-top: 3rem;
+  animation: bounce 2s infinite;
+}
+
+.scroll-label {
+  font-size: 0.7rem;
+  letter-spacing: 2px;
+  color: #A0AEC0;
+  text-transform: uppercase;
+}
+
+.scroll-arrow {
+  width: 40px; height: 40px;
+  border: 2px solid rgba(74,144,217,0.5);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #4A90D9;
+  font-size: 1.1rem;
+  transition: background 0.3s, border-color 0.3s;
+}
+
+.scroll-down:hover .scroll-arrow {
+  background: rgba(74,144,217,0.15);
+  border-color: #4A90D9;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50%       { transform: translateY(8px); }
+}
+
+/* ---- FOCUS VISIBLE (accesibilidad con teclado) ---- */
+/* Cubre nav-links, hamburguesa, volver arriba, scroll-down, botones y cards */
+.page a:focus-visible,
+.page button:focus-visible {
+  outline: 2px solid #4A90D9;
+  outline-offset: 3px;
+  border-radius: 4px;
+}
+/* ---- FADE-IN ON SCROLL (todas las secciones excepto el hero) ---- */
+/* La clase .is-visible la agrega HomeView.vue con un IntersectionObserver */
+.page section:not(.hero) {
+  opacity: 0;
+  transform: translateY(30px);
+  transition: opacity 0.8s ease, transform 0.8s ease;
+}
+
+.page section:not(.hero).is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .page section:not(.hero) {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
+}
