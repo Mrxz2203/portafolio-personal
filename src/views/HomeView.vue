@@ -104,9 +104,10 @@ export default {
       revealObserver: null
     }
   },
-  mounted() {
+mounted() {
     this.setupScrollSpy()
     this.setupRevealAnimations()
+    this.revealVisibleOnLoad()
     window.addEventListener('scroll', this.handleScroll)
     this.handleScroll()
   },
@@ -127,6 +128,20 @@ export default {
     },
     handleScroll() {
       this.showBackToTop = window.scrollY > 500
+    },
+    // Revela de una las secciones que YA están a la vista al cargar la página
+    // (caso: entrar directo con #ancla en la URL o refrescar a mitad de página,
+    // donde nunca ocurre el "scroll" que el IntersectionObserver espera)
+    revealVisibleOnLoad() {
+      const sections = document.querySelectorAll('.page section:not(.hero)')
+      sections.forEach((section) => {
+        const rect = section.getBoundingClientRect()
+        const enViewport = rect.top < window.innerHeight && rect.bottom > 0
+        if (enViewport) {
+          section.classList.add('is-visible')
+          if (this.revealObserver) this.revealObserver.unobserve(section)
+        }
+      })
     },
     // Resalta el link del nav según la sección visible en pantalla
     setupScrollSpy() {

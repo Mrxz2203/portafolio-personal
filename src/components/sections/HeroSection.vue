@@ -23,6 +23,7 @@
         <span class="deco-tag tag-1">JS</span>
         <span class="deco-tag tag-2">Vue</span>
         <span class="deco-tag tag-3">CSS</span>
+        <span class="deco-tag tag-4">React</span>
       </div>
     </div>
 
@@ -190,7 +191,7 @@ export default {
 .tag-1 { bottom: 40px; right: -30px; }
 .tag-2 { top: 20px; right: -35px; color: #EF0107; border-color: rgba(239,1,7,0.5); background: rgba(91,0,0,0.5); }
 .tag-3 { bottom: 90px; left: -35px; }
-
+.tag-4 { top: 90px; left: -40px; }
 @media (max-width: 768px) {
   .hero { padding: 6rem 1.5rem 6rem; }
   .hero-content { flex-direction: column; text-align: center; gap: 3rem; }
