@@ -32,7 +32,7 @@
     </div>
     <div class="proyecto-nota">
       <span class="nota-icono">👁️</span>
-      <p><span class="nota-label">Dato:</span> Estos programas fueron inspiradas en base a mis sentimientos de una experiencia vivida. Asimismo, me gustaron las canciones de Green.</p>
+      <p><span class="nota-label">Dato:</span> Estos programas fueron inspiradas en base a mis sentimientos de una experiencia vivida.</p>
     </div>
   </section>
 </template>
