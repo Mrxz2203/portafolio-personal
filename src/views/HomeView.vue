@@ -46,9 +46,6 @@
     <!-- ============================================================ -->
     <footer id="footer" class="footer">
       <p>© 2026 <span class="accent-red">Jarold Gabriel</span> Garcia Cartagena </p>
-      <a href="https://portafolio-gabriel-garcia.vercel.app/" target="_blank" class="btn-laboral">
-        Portafolio Laboral
-      </a>
     </footer>
 
     <!-- ============================================================ -->

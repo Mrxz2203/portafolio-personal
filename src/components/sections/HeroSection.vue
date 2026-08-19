@@ -12,7 +12,14 @@
           <span class="accent-red">Garcia</span> Cartagena
         </h1>
         <p class="subtitulo">Estudiante de Ingeniería de Sistemas de Información.</p>
-        <a href="#acerca" class="btn-portafolio"> Sitio Web Personal</a>
+        <a 
+  href="https://portafolio-gabriel-garcia.vercel.app/" 
+  target="_blank" 
+  rel="noopener noreferrer" 
+  class="btn-portafolio"
+> 
+  Portafolio Laboral
+</a>
       </div>
 
       <div class="hero-image-wrapper">
